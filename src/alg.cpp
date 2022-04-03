@@ -1,4 +1,4 @@
-// Copyright 2022 DegtyarevPaul 
+// Copyright 2022 DegtyarevPaul
 #include <string>
 #include <map>
 #include "tstack.h"
