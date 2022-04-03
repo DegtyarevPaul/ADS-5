@@ -48,7 +48,7 @@ std::string infx2pstfx(std::string inf) {
     return str;
   }
 
-int eval(std::string pref) {
+int eval(std::string str) {
   TStack<int, 20> answStack;
   std::string mp = "+-*/";
   for (char ch : str) {
