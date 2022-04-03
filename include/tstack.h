@@ -6,7 +6,7 @@ const int size = 100;
 
 template<typename T, int size>
 class TStack {
-private:
+ private:
   T arr[20];
   int top;
 
