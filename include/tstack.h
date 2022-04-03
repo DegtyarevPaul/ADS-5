@@ -2,7 +2,7 @@
 #ifndef INCLUDE_TSTACK_H_
 #define INCLUDE_TSTACK_H_
 
-const int size = 20;
+const int size = 100;
 
 template<typename T, int size>
 class TStack {
